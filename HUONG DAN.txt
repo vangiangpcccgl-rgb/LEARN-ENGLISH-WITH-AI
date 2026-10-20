@@ -1,0 +1,34 @@
+WORD HUNTER - HƯỚNG DẪN SỬ DỤNG (MIỄN PHÍ)
+
+A. MÁY TÍNH WINDOWS
+1. Chép cả thư mục "Speak English with AI" vào máy (qua USB). Không cần cài đặt.
+2. Bấm đúp "MO GAME.bat" (hoặc mở index.html bằng Microsoft Edge / Google Chrome).
+3. Khi trình duyệt hỏi quyền dùng micro, chọn "Cho phép".
+
+B. ĐIỆN THOẠI / MÁY TÍNH BẢNG
+Cần đưa thư mục lên một trang web miễn phí (GitHub Pages, Netlify...) một lần.
+Học sinh mở đường link bằng Chrome, chọn "Thêm vào màn hình chính" / "Cài đặt ứng dụng".
+Sau lần mở đầu tiên, các trò chơi chạy được khi không có mạng.
+
+C. KHI KHÔNG CÓ INTERNET
+- Nghe mẫu (cần giọng đọc tiếng Anh có sẵn trong máy), Nghe & chọn hình, Xếp chữ: chạy bình thường.
+- Chấm phát âm bằng AI: Chrome/Edge gửi âm thanh lên máy chủ để nhận diện, nên cần Internet.
+  Khi mất mạng, game hiện thông báo và cho học sinh tự đánh giá bằng 3 biểu tượng mặt cười.
+
+D. DỮ LIỆU
+Điểm của học sinh lưu ngay trên máy đang dùng. Giáo viên bấm "Góc giáo viên" để xem
+kết quả và xuất file Excel (CSV).
+
+E. NOI DUNG TRONG GAME (ban moi)
+- Moi Unit co muc "Truyen - Ve - Meo nho": truyen ngan, bai ve, meo nho tung tu, 3 cau nhiem vu noi. Bam loa de nghe, bam micro de doc theo va duoc cham diem.
+- "English Town": 6 canh nhap vai bang giong noi (cua hang, huong dan vien, bac si, ban nuoc ngoai, phong vien thoi tiet, so thu). Nhan vat noi bang giong doc cua may, hoc sinh tra loi bang micro; dung kich ban soan san nen an toan, khong chat tu do.
+- Hinh minh hoa AI tao: xem thu muc img (HUONG DAN HINH.txt). Chua co hinh thi game dung bieu tuong emoji.
+- Noi dung truyen/ve/meo do AI ho tro soan, GIAO VIEN DUYET truoc khi dung. Giao vien co the sua trong file index.html (mang STORY, TOWN, UNITS).
+
+F. ENGLISH TOWN (cap nhat): moi canh la mot doan hoi thoai 6-7 luot (vi du: cua hang, hoi duong, bac si, ban nuoc ngoai, thoi tiet, so thu). Cuoi canh hien lai ca doan hoi thoai de nghe va doc lai.
+
+G. CHAY TREN MOI THIET BI
+- Link https (GitHub Pages) mo duoc tren iPhone, iPad, Android, may tinh. KHONG mo file .html tu Zalo/Messenger/Tep.
+- Android (Chrome) va may tinh (Chrome/Edge): AI nhan dien giong noi va cham diem tu dong.
+- iPhone/iPad (Safari): thuong khong co AI nhan dien giong noi. Game chuyen sang che do GHI AM -> NGHE LAI -> SO VOI GIONG MAU -> TU DANH GIA (mat cuoi). Cho phep micro: Cai dat > Safari > Micro, bat Doc chinh ta neu co.
+- Cac tro Nghe & chon hinh, Xep chu, Truyen/Ve va nghe mau chay tren moi thiet bi.
