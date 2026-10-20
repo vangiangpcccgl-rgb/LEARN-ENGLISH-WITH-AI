@@ -1,0 +1,11 @@
+HINH MINH HOA TRONG GAME
+
+Thu muc nay da co san 184 hinh cho 183 tu:
+- ANH THAT tu Wikimedia Commons (giay phep tu do, dang .jpg): con vat, do vat, dia diem, do an, co quoc gia...
+- HINH VE don gian (dang .png) cho cac tu truu tuong: thu trong tuan, thoi tiet, nhiet do, huong re, to/nho/cao/thap...
+- Nguon va tac gia tung anh nam trong file "NGUON ANH.txt" (bat buoc giu kem khi chia se game).
+
+Ten file: u{so unit}-{tu viet lien khong dau}.jpg hoac .png  (vi du u19-elephant.jpg, u17-postoffice.jpg).
+Muon thay anh nao: luu anh moi dung ten do (uu tien .jpg) vao thu muc nay, game se dung anh moi.
+File "DANH SACH HINH.csv" co prompt de tao anh bang AI (Gemini/Canva) neu co muon thay hinh.
+Giao vien nen xem lai tung anh truoc khi cho hoc sinh dung.

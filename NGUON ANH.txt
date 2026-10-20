@@ -1,0 +1,126 @@
+NGUỒN ẢNH MINH HỌA – SPEAK-UP QUEST / WORD HUNTER
+============================================================
+
+1) ẢNH THẬT từ Wikimedia Commons (giấy phép tự do). Ảnh đã được thu nhỏ (cạnh dài ≤ 480 px) để dùng trong lớp học, không chỉnh sửa nội dung.
+   Giấy phép CC BY / CC BY-SA yêu cầu ghi tên tác giả và nguồn – danh sách dưới đây. Ảnh CC BY-SA khi chia sẻ lại phải giữ nguyên giấy phép.
+   Mỗi dòng: tên file | tên tệp trên Commons | tác giả | giấy phép | trang gốc
+
+u1-vietnam.jpg | File:Flag of Vietnam.svg | See File history below for details. | Public domain | https://commons.wikimedia.org/wiki/File:Flag_of_Vietnam.svg
+u1-australia.jpg | File:Flag of Australia (converted).svg | Unknown  (Vector graphics image by Ian Fieggen) (only minor code changes by uplo | Public domain | https://commons.wikimedia.org/wiki/File:Flag_of_Australia_(converted).svg
+u1-japan.jpg | File:Flag of Japan.svg | Various | Public domain | https://commons.wikimedia.org/wiki/File:Flag_of_Japan.svg
+u1-malaysia.jpg | File:Flag of Malaysia.svg | MapGrid (old version SKopp, Zscout370   and  Ranking Update) | Public domain | https://commons.wikimedia.org/wiki/File:Flag_of_Malaysia.svg
+u1-america.jpg | File:Flag of the United States.svg | Uploaded by Dbenbenn; edited by users such as Zscout370, Jacobolus, Indolences,  | Public domain | https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States.svg
+u1-england.jpg | File:Flag of England.svg | Original: traditional Vector:  Nicholas Shanks | Public domain | https://commons.wikimedia.org/wiki/File:Flag_of_England.svg
+u1-singapore.jpg | File:Flag of Singapore.svg | Original: Government of Singapore Vector:  Zscout370 | Public domain | https://commons.wikimedia.org/wiki/File:Flag_of_Singapore.svg
+u1-thailand.jpg | File:Flag of Thailand.svg | Zscout370 | Public domain | https://commons.wikimedia.org/wiki/File:Flag_of_Thailand.svg
+u1-india.jpg | File:Flag of India.svg | Government of India | Public domain | https://commons.wikimedia.org/wiki/File:Flag_of_India.svg
+u2-havebreakfast.jpg | File:Breakfast at the Black Bear Diner.jpg | Kiddo27 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Breakfast_at_the_Black_Bear_Diner.jpg
+u2-havelunch.jpg | File:School lunch tray MyPlate 20210810-FNS-UNC-0015.jpg | U.S. Department of Agriculture | Public domain | https://commons.wikimedia.org/wiki/File:School_lunch_tray_MyPlate_20210810-FNS-UNC-0015.jpg
+u2-havedinner.jpg | File:Filet de bœuf.jpg | Ɱ | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Filet_de_b%C5%93uf.jpg
+u2-gotoschool.jpg | File:IC CE school bus (shortened chassis).jpg | Atomic Taco | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:IC_CE_school_bus_(shortened_chassis).jpg
+u2-oclock.jpg | File:Clock analog clock.jpg | Paolo Neo | Public domain | https://commons.wikimedia.org/wiki/File:Clock_analog_clock.jpg
+u4-birthday.jpg | File:Tim Tams and Nuts on a Birthday Cake With Candles.jpg | Brassluff | CC0 | https://commons.wikimedia.org/wiki/File:Tim_Tams_and_Nuts_on_a_Birthday_Cake_With_Candles.jpg
+u4-balloon.jpg | File:Congrats bqt.jpg | Photographer: Warren Denning. Creative Director: Stan Weir. Marketing Director:  | Public domain | https://commons.wikimedia.org/wiki/File:Congrats_bqt.jpg
+u4-present.jpg | File:Prezenty EXP 096 (ubt).JPG | Tomasz Sienicki [user: tsca, mail: tomasz.sienicki at gmail.com] | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Prezenty_EXP_096_(ubt).JPG
+u4-candy.jpg | File:Bonbons colorés.jpg | Jebulon | CC0 | https://commons.wikimedia.org/wiki/File:Bonbons_color%C3%A9s.jpg
+u4-juice.jpg | File:Orange juice 1.jpg | Agricultural Research Service | Public domain | https://commons.wikimedia.org/wiki/File:Orange_juice_1.jpg
+u4-chicken.jpg | File:Fried-Chicken-Set.jpg | Evan-Amos | CC0 | https://commons.wikimedia.org/wiki/File:Fried-Chicken-Set.jpg
+u4-fish.jpg | File:Gold fish1.jpg | לינה אבוגוש | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Gold_fish1.jpg
+u4-cake.jpg | File:Pound layer cake.jpg | Scheinwerfermann | Public domain | https://commons.wikimedia.org/wiki/File:Pound_layer_cake.jpg
+u4-lemonade.jpg | File:Lemonade - 27682817724.jpg | HarshLight | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Lemonade_-_27682817724.jpg
+u5-swim.jpg | File:40. Schwimmzonen- und Mastersmeeting Enns 2017 100m Brust Herren USC Traun-9897.jpg | Isiwal | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:40._Schwimmzonen-_und_Mastersmeeting_Enns_2017_100m_Brust_Herren_USC_Traun-9897.jpg
+u5-skate.jpg | File:Roller-skate.jpg | (không rõ) | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Roller-skate.jpg
+u5-skip.jpg | File:Ghanaian kid (skipping rope) 06 (cropped).jpg | Pambelle12 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Ghanaian_kid_(skipping_rope)_06_(cropped).jpg
+u5-draw.jpg | File:Child drawing with color pencils from above.jpg | Shixart1985 | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Child_drawing_with_color_pencils_from_above.jpg
+u5-rideabike.jpg | File:Left side of Flying Pigeon.jpg | 齐健 from Peking, People's Republic of China | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg
+u5-playthepiano.jpg | File:Steinway Vienna 002.JPG | Gryffindor | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Steinway_Vienna_002.JPG
+u5-sing.jpg | File:Ah cricket 20122 (7364759010).jpg | Owen Lucas from Bath, UK | Public domain | https://commons.wikimedia.org/wiki/File:Ah_cricket_20122_(7364759010).jpg
+u5-dance.jpg | File:Two dancers.jpg | Barry Goyette from San Luis Obispo, USA | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Two_dancers.jpg
+u6-library.jpg | File:Hitane Elementary School library 2.jpg | Douglas P Perkins | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Hitane_Elementary_School_library_2.jpg
+u6-gym.jpg | File:Chorzow Urbanowicza 2 sala gimnastyczna 2021.jpg | Adrian Tync | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Chorzow_Urbanowicza_2_sala_gimnastyczna_2021.jpg
+u6-computerroom.jpg | File:Computer lab in Seaba School Lehragaga Punjab.jpg | SinglaNeha | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Computer_lab_in_Seaba_School_Lehragaga_Punjab.jpg
+u6-playground.jpg | File:Krakow Kozłówek - slide on a playground for children.JPG | Wuhazet (Henryk Żychowski) | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Krakow_Koz%C5%82%C3%B3wek_-_slide_on_a_playground_for_children.JPG
+u6-classroom.jpg | File:Elementary classroom in Alaska.jpg | Liz | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Elementary_classroom_in_Alaska.jpg
+u6-school.jpg | File:Holy Cross Primary School, Glasgow, Scotland.jpg | Michal Klajban | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Holy_Cross_Primary_School,_Glasgow,_Scotland.jpg
+u7-morning.jpg | File:Morning, just after sunrise, Namibia.jpg | Olga Ernst | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Morning,_just_after_sunrise,_Namibia.jpg
+u7-evening.jpg | File:Evening in Parambikkulam, Kerala, India.jpg | Augustus Binu/ www.dreamsparrow.net/ facebook | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Evening_in_Parambikkulam,_Kerala,_India.jpg
+u8-science.jpg | File:Laboratory equipment.jpg | Belikov Maxim | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Laboratory_equipment.jpg
+u8-it.jpg | File:Laptop collage.jpg | Top left: PremeditatedTop right: Tom PageBottom left and right: Maurizio Pesce | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Laptop_collage.jpg
+u8-music.jpg | File:Historical instruments.jpg | A.E.Booth95 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Historical_instruments.jpg
+u8-art.jpg | File:Gouache.jpg | Jeff Dahl | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Gouache.jpg
+u8-pe.jpg | File:Calhan Colorado High School Physical Education equipment by David Shankbone.jpg | David Shankbone | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Calhan_Colorado_High_School_Physical_Education_equipment_by_David_Shankbone.jpg
+u9-football.jpg | File:Soccer ball on ground.jpg | Petey21 | CC0 | https://commons.wikimedia.org/wiki/File:Soccer_ball_on_ground.jpg
+u9-basketball.jpg | File:Basketball hitting a basketball goal.jpg | noahsilliman | CC0 | https://commons.wikimedia.org/wiki/File:Basketball_hitting_a_basketball_goal.jpg
+u9-volleyball.jpg | File:Brasil vence a França no vôlei masculino 1037987-15.08.2016 ffz-6369.jpg | Fernando Frazão/Agência Brasil | CC BY 3.0 br | https://commons.wikimedia.org/wiki/File:Brasil_vence_a_Fran%C3%A7a_no_v%C3%B4lei_masculino_1037987-15.08.2016_ffz-6369.jpg
+u9-swimming.jpg | File:Moscow. A general view of the Prechistenskaya Embankment from the Crimean Embankment on a warm autumn day.jpg | Юрий Д.К. | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Moscow._A_general_view_of_the_Prechistenskaya_Embankment_from_the_Crimean_Embankment_on_a_warm_autumn_day.jpg
+u9-running.jpg | File:Kota-Kinabalu Sabah Borneo-International-Marathon-2015-06a.jpg | CEphoto, Uwe Aranas | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Kota-Kinabalu_Sabah_Borneo-International-Marathon-2015-06a.jpg
+u9-win.jpg | File:Benin, Championnats nationaux de scrabble 2019, trophées.jpg | Homo Anchorus | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Benin,_Championnats_nationaux_de_scrabble_2019,_troph%C3%A9es.jpg
+u10-holiday.jpg | File:Vacation Village at Weston Pool, Weston, Florida February 24, 2022 B.jpg | AITFFan1 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Vacation_Village_at_Weston_Pool,_Weston,_Florida_February_24,_2022_B.jpg
+u10-beach.jpg | File:Havelock Island, Mangrove tree on the beach, Andaman Islands.jpg | Vyacheslav Argenberg | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Havelock_Island,_Mangrove_tree_on_the_beach,_Andaman_Islands.jpg
+u10-mountains.jpg | File:Everest North Face toward Base Camp Tibet Luca Galuzzi 2006.jpg | Luca Galuzzi (Lucag) | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Everest_North_Face_toward_Base_Camp_Tibet_Luca_Galuzzi_2006.jpg
+u10-village.jpg | File:Le village flottant (Chau Doc, Vietnam) (6620578201).jpg | Jean-Pierre Dalbéra from Paris, France | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Le_village_flottant_(Chau_Doc,_Vietnam)_(6620578201).jpg
+u10-seaside.jpg | File:São Martinho (Madeira, Portugal), Complexo Balnear da Ponta Gorda -- 2025 -- 0335.jpg | Dietmar Rabich | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:S%C3%A3o_Martinho_(Madeira,_Portugal),_Complexo_Balnear_da_Ponta_Gorda_--_2025_--_0335.jpg
+u10-trip.jpg | File:Suitcase1.jpg | JEXP | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Suitcase1.jpg
+u11-house.jpg | File:Adam Thoroughgood House - South LR.jpg | PumpkinSky | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Adam_Thoroughgood_House_-_South_LR.jpg
+u11-livingroom.jpg | File:Living room in apartment of Condomínio do Edifício Zaher, Le Blond, Rio de Janeiro, Brazil.jpg | Wilfredor | CC0 | https://commons.wikimedia.org/wiki/File:Living_room_in_apartment_of_Condom%C3%ADnio_do_Edif%C3%ADcio_Zaher,_Le_Blond,_Rio_de_Janeiro,_Brazil.jpg
+u11-bedroom.jpg | File:Canopy bed of Amantaka Suite in Amantaka luxury Resort & Hotel in Luang Prabang Laos.jpg | Basile Morin | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Canopy_bed_of_Amantaka_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg
+u11-kitchen.jpg | File:La cuisine (musée dart nouveau, Riga) (7563655820).jpg | Jean-Pierre Dalbéra from Paris, France | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:La_cuisine_(mus%C3%A9e_dart_nouveau,_Riga)_(7563655820).jpg
+u11-bathroom.jpg | File:Red modern bathroom interior. (51528276166).jpg | Nenad Stojkovic | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Red_modern_bathroom_interior._(51528276166).jpg
+u11-garden.jpg | File:DSC07729 Sommerblumenschau Pavilion, Flower Gardens Hirschstetten, 2025-07.jpg | Aciarium | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:DSC07729_Sommerblumenschau_Pavilion,_Flower_Gardens_Hirschstetten,_2025-07.jpg
+u11-sofa.jpg | File:2009-05-16 Main office lobby at Hampton Forest Apartments.jpg | Ildar Sagdejev (Specious) | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:2009-05-16_Main_office_lobby_at_Hampton_Forest_Apartments.jpg
+u11-chair.jpg | File:Set of fourteen side chairs MET DP110780.jpg | Thomas Chippendale | CC0 | https://commons.wikimedia.org/wiki/File:Set_of_fourteen_side_chairs_MET_DP110780.jpg
+u11-table.jpg | File:Dining table for two.jpg | Jeremy van Bedijk | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Dining_table_for_two.jpg
+u12-teacher.jpg | File:Teacher at blackboard (1924).jpg | AnonymousUnknown author | Public domain | https://commons.wikimedia.org/wiki/File:Teacher_at_blackboard_(1924).jpg
+u12-doctor.jpg | File:Doctor examines patient with stethoscope (2).jpg | Unknown photographer | Public domain | https://commons.wikimedia.org/wiki/File:Doctor_examines_patient_with_stethoscope_(2).jpg
+u12-nurse.jpg | File:Thai nurse in Na Wa Public Hospital.jpg | Bualong Sebulke | Public domain | https://commons.wikimedia.org/wiki/File:Thai_nurse_in_Na_Wa_Public_Hospital.jpg
+u12-farmer.jpg | File:Woman at work, Gujarat.jpg | Bernard Gagnon | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Woman_at_work,_Gujarat.jpg
+u12-driver.jpg | File:Denali transit bus driver Gary at the Teklanika Rest Stop on Aug. 29, 2019. (b80fe622-4d79-447e-8e36-1b647ef074e9).JPG | NPS Photo / Emily Mesner | Public domain | https://commons.wikimedia.org/wiki/File:Denali_transit_bus_driver_Gary_at_the_Teklanika_Rest_Stop_on_Aug._29,_2019._(b80fe622-4d79-447e-8e36-1b647ef074e9).JPG
+u12-worker.jpg | File:69 Fisk IRT work vests jeh.jpg | Jim.henderson | CC0 | https://commons.wikimedia.org/wiki/File:69_Fisk_IRT_work_vests_jeh.jpg
+u12-singer.jpg | File:Rock’s Cool on stage (DSC01466).jpg | Trougnouf (Benoit Brummer) | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Rock%E2%80%99s_Cool_on_stage_(DSC01466).jpg
+u12-pilot.jpg | File:Lt Mike Hunter 1.jpg | Alfred T. Palmer | Public domain | https://commons.wikimedia.org/wiki/File:Lt_Mike_Hunter_1.jpg
+u13-hair.jpg | File:School girl of Baozhong Junior High School with long hair 20130315.jpg | 褒忠國中 雲端網 | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:School_girl_of_Baozhong_Junior_High_School_with_long_hair_20130315.jpg
+u13-eyes.jpg | File:Close up shot of the human eye, 9 August 2024.jpg | Kookaaa | CC0 | https://commons.wikimedia.org/wiki/File:Close_up_shot_of_the_human_eye,_9_August_2024.jpg
+u14-wash.jpg | File:OCD handwash.jpg | Lars Klintwall Malmqvist (Larsklintwallmalmqvist) | Public domain | https://commons.wikimedia.org/wiki/File:OCD_handwash.jpg
+u14-brushteeth.jpg | File:Toothbrush, Toothpaste, Dental Care (571741).jpg | Steve Buissinne, South Africa | CC0 | https://commons.wikimedia.org/wiki/File:Toothbrush,_Toothpaste,_Dental_Care_(571741).jpg
+u14-watchtv.jpg | File:Polytechnical Museum television set Volna 20150214 164839.jpg | Svetlov Artem | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Polytechnical_Museum_television_set_Volna_20150214_164839.jpg
+u14-listentomusic.jpg | File:Słuchawki referencyjne K-701 firmy AKG.jpg | http://muzyczny.pl | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:S%C5%82uchawki_referencyjne_K-701_firmy_AKG.jpg
+u14-playgames.jpg | File:Hands holding video game controller (50811892858).jpg | Vu Hoang | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Hands_holding_video_game_controller_(50811892858).jpg
+u15-goshopping.jpg | File:Holland & Barrett paper shopping bags, Winschoten (2019).jpg | Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 Intern | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Holland_%26_Barrett_paper_shopping_bags,_Winschoten_(2019).jpg
+u15-gofishing.jpg | File:Stilts fishermen Sri Lanka 02.jpg | Bernard Gagnon | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Stilts_fishermen_Sri_Lanka_02.jpg
+u15-visitgrandparents.jpg | File:Grandparents-1969824.jpg | sylviebliss | CC0 | https://commons.wikimedia.org/wiki/File:Grandparents-1969824.jpg
+u15-haveapicnic.jpg | File:DSC 6311 A peaceful lakeside picnic setup with a wicker basket blanket and sun hat beside the water on a sandy shore.jpg | PattayaPatrol | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:DSC_6311_A_peaceful_lakeside_picnic_setup_with_a_wicker_basket_blanket_and_sun_hat_beside_the_water_on_a_sandy_shore.jpg
+u17-city.jpg | File:Frankfurter Altstadt mit Skyline 2012-04.jpg | Thomas Wolf, www.foto-tw.de | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Frankfurter_Altstadt_mit_Skyline_2012-04.jpg
+u17-street.jpg | File:Typical Street In The Royal Borough Of Kensington And Chelsea In London.jpg | Onofre_Bouvila. | CC BY 2.5 | https://commons.wikimedia.org/wiki/File:Typical_Street_In_The_Royal_Borough_Of_Kensington_And_Chelsea_In_London.jpg
+u17-busstop.jpg | File:Bus shelter at VDNKh in Moscow.jpg | Dmitry Ivanov. | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Bus_shelter_at_VDNKh_in_Moscow.jpg
+u17-postoffice.jpg | File:EdithburghPostOffice.JPG | Mattinbgn | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:EdithburghPostOffice.JPG
+u17-cinema.jpg | File:Kino-Center, Rendsburg (P1100354).jpg | Matti Blume | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Kino-Center,_Rendsburg_(P1100354).jpg
+u17-museum.jpg | File:British Museum Great Court, London, UK - Diliff.jpg | Diliff | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:British_Museum_Great_Court,_London,_UK_-_Diliff.jpg
+u17-supermarket.jpg | File:Grocery Store Aisle, vermont.jpg | Tessa Bury | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Grocery_Store_Aisle,_vermont.jpg
+u17-bookshop.jpg | File:Interior of Abbey's Bookshop December 2025.jpg | Nick-D | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Interior_of_Abbey%27s_Bookshop_December_2025.jpg
+u17-hospital.jpg | File:Hospital-de-Bellvitge.jpg | H501zalc | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Hospital-de-Bellvitge.jpg
+u18-shoppingcentre.jpg | File:Galeria shopping mall interior 34.jpg | MBH | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Galeria_shopping_mall_interior_34.jpg
+u18-price.jpg | File:"wow" price tag.jpg | Tessa Bury | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:%22wow%22_price_tag.jpg
+u18-tshirt.jpg | File:Ambigram Ideal, polysymmetrical logo printed on a green T-shirt.jpg | Basile Morin | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Ambigram_Ideal,_polysymmetrical_logo_printed_on_a_green_T-shirt.jpg
+u18-jacket.jpg | File:Windbreaker Jacket, Hood Outside.jpg | Ingolfson | Public domain | https://commons.wikimedia.org/wiki/File:Windbreaker_Jacket,_Hood_Outside.jpg
+u18-skirt.jpg | File:Skirt.jpg | David Ring | CC0 | https://commons.wikimedia.org/wiki/File:Skirt.jpg
+u18-hat.jpg | File:Photographic silhouette of the face of a woman wearing a conical hat made of repurposed bags of laundry detergent in Don Det Laos.jpg | Basile Morin | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Photographic_silhouette_of_the_face_of_a_woman_wearing_a_conical_hat_made_of_repurposed_bags_of_laundry_detergent_in_Don_Det_Laos.jpg
+u18-shoes.jpg | File:2023 Adidas Yeezy 350 V2 EF2905 (1).jpg | Jacek Halicki | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:2023_Adidas_Yeezy_350_V2_EF2905_(1).jpg
+u19-zoo.jpg | File:Indianapolis Zoo Entrance.jpg | IU Center for the Integrative Study of Animal Behavior | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Indianapolis_Zoo_Entrance.jpg
+u19-tiger.jpg | File:Bengal tiger (Panthera tigris tigris) female 3 crop.jpg | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Bengal_tiger_(Panthera_tigris_tigris)_female_3_crop.jpg
+u19-elephant.jpg | File:Elephant running.jpg | Byrdyak | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Elephant_running.jpg
+u19-monkey.jpg | File:Ubud Monkey Family.jpg | Deerpeter | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Ubud_Monkey_Family.jpg
+u19-crocodile.jpg | File:Nile crocodile head.jpg | Leigh Bedford | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Nile_crocodile_head.jpg
+u19-zebra.jpg | File:Zebra 02.jpg | Stano Novak | CC BY 2.5 | https://commons.wikimedia.org/wiki/File:Zebra_02.jpg
+u19-giraffe.jpg | File:Three giraffes 01.jpg | Byrdyak | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Three_giraffes_01.jpg
+u19-kangaroo.jpg | File:Forester kangaroo (Macropus giganteus tasmaniensis) juvenile hopping Esk Valley.jpg | Charles J. Sharp | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Forester_kangaroo_(Macropus_giganteus_tasmaniensis)_juvenile_hopping_Esk_Valley.jpg
+u19-lion.jpg | File:Lion waiting in Namibia.jpg | Kevin Pluck | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Lion_waiting_in_Namibia.jpg
+u19-bear.jpg | File:2010-kodiak-bear-1.jpg | Yathin S Krishnappa | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:2010-kodiak-bear-1.jpg
+u20-summercamp.jpg | File:Tent camping along the Sulayr trail in La Taha, Sierra Nevada National Park (DSCF5147).jpg | Trougnouf (Benoit Brummer) | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Tent_camping_along_the_Sulayr_trail_in_La_Taha,_Sierra_Nevada_National_Park_(DSCF5147).jpg
+u20-tent.jpg | File:Zagedan Ridge, Camping tent, Caucasus Mountains.jpg | Vyacheslav Argenberg | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Zagedan_Ridge,_Camping_tent,_Caucasus_Mountains.jpg
+u20-campfire.jpg | File:Campfire at Bramble Bield.jpg | Alasdair | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Campfire_at_Bramble_Bield.jpg
+u20-lake.jpg | File:Lake Idro Italy 2005-08-16.jpg | No machine-readable author provided. Marius~commonswiki assumed (based on copyri | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Lake_Idro_Italy_2005-08-16.jpg
+u20-climb.jpg | File:Hikers IIT Mandi Griffon Peak, Himachal Jan20 D72 13723.jpg | This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but p | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Hikers_IIT_Mandi_Griffon_Peak,_Himachal_Jan20_D72_13723.jpg
+u20-cycle.jpg | File:Left side of Flying Pigeon.jpg | 齐健 from Peking, People's Republic of China | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg
+u20-backpack.jpg | File:Rucksack1.jpg | de:Benutzer:sjr | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Rucksack1.jpg
+
+2) HÌNH VẼ do giáo viên/ công cụ tạo cho các từ trừu tượng (không thuộc Wikimedia): u1-friend.png, u10-island.png, u10-summer.png, u10-visit.png, u12-engineer.png, u12-officeworker.png, u13-big.png, u13-old.png, u13-short.png, u13-slim.png, u13-small.png, u13-strong.png, u13-tall.png, u13-young.png, u14-readabook.png, u14-tidy.png, u14-yesterday.png, u15-always.png, u15-clean.png, u15-family.png, u15-often.png, u16-cloudy.png, u16-cold.png, u16-hot.png, u16-rainy.png, u16-snowy.png, u16-stormy.png, u16-sunny.png, u16-warm.png, u16-weather.png, u16-windy.png, u17-gostraight.png, u17-turnleft.png, u17-turnright.png, u18-buy.png, u18-cheap.png, u18-expensive.png, u2-dohomework.png, u2-getup.png, u2-gotobed.png, u20-singsongs.png, u20-sleep.png, u3-friday.png, u3-monday.png, u3-saturday.png, u3-sunday.png, u3-thursday.png, u3-today.png, u3-tuesday.png, u3-wednesday.png, u3-weekend.png, u4-party.png, u5-cook.png, u6-artroom.png, u6-musicroom.png, u7-afternoon.png, u7-class.png, u7-lesson.png, u7-subject.png, u7-timetable.png, u7-today.png, u8-english.png, u8-maths.png, u8-vietnamese.png, u9-badminton.png, u9-tabletennis.png, u9-team.png
